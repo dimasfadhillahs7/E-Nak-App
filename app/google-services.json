@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "575921684066",
+    "project_id": "skripsi-80972",
+    "storage_bucket": "skripsi-80972.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:575921684066:android:19408bc0dec4d453339b3b",
+        "android_client_info": {
+          "package_name": "com.dimasfs.e_nak"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQKrij6Wev0ZPVyfC3IZh1MnRWMALkplA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

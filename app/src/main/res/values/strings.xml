@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">E-Nak</string>
+
+    <string name="username"> Name User </string>
+    <string name="username2"> username </string>
+    <string name="stat"> Statistik Anda </string>
+
+    <string name="email">Email</string>
+    <string name="et_email_error_message">Email tidak valid!</string>
+    <string name="password">Password</string>
+    <string name="et_password_error_message">Password setidaknya 6 karakter</string>
+    <string name="login">Login</string>
+    <string name="dont_have_an_account">Dont have an account?</string>
+    <string name="register">Register</string>
+    <string name="login_account">Login Account</string>
+    <string name="register_account">Register Account</string>
+    <string name="register_message">Please fill this form</string>
+    <string name="full_name">Full name</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="login_success_message">Login Successful</string>
+    <string name="login_error_message">Can\'t Login</string>
+    <string name="registration_success">Registration Successful</string>
+    <string name="registration_error_message">Can\'t Regist Your Account</string>
+    <string name="et_email_empty">E-mail is required</string>
+    <string name="et_fullname_empty">Full Name is required</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="send_success">Berhasil terkirim</string>
+    <string name="send_error">Gagal terkirim</string>
+    <string name="empty_rv_message">data belum terdeteksi! AYO TAMBAHKAN</string>
+
+    <string-array name="kategori_transaksi">
+        <item>Pemasukan</item>
+        <item>Pengeluaran</item>
+    </string-array>
+
+    <string-array name="jenis">
+        <item>Hewan</item>
+        <item>Inventaris</item>
+    </string-array>
+
+
+</resources>
